@@ -1,4 +1,4 @@
-#This programwil get open PRS 
+#This program will get open PRs
 from atlassian import Bitbucket
 import datetime
 
